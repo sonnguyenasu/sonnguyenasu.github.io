@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Truong Son Nguyen"
 permalink: /
 author_profile: true

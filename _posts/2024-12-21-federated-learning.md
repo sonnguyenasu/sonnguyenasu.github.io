@@ -6,7 +6,7 @@ tags:
   - federated learning
   - machine learning
 ---
-# Federated Learning
+<!-- # Federated Learning -->
 
 Federated Learning is a way for server to train deep learning model without touching client data. It does so by outsourcing the training process to client node, and server only aggregates the model updates after such local training.
 

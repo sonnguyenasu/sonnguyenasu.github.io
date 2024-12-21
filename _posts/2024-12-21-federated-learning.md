@@ -145,7 +145,7 @@ plt.imshow(img)
 
 
     
-![png](Meeting_Notes_of_Federated_Learning_files/Meeting_Notes_of_Federated_Learning_8_2.png)
+![png](https://sonnguyenasu.github.io/files/Meeting_Notes_of_Federated_Learning_files/Meeting_Notes_of_Federated_Learning_8_2.png)
     
 
 
@@ -347,7 +347,7 @@ plt.show()
 
 
     
-![png](/files/Meeting_Notes_of_Federated_Learning_files/Meeting_Notes_of_Federated_Learning_20_0.png)
+![png](https://sonnguyenasu.github.io/files/Meeting_Notes_of_Federated_Learning_files/Meeting_Notes_of_Federated_Learning_20_0.png)
     
 
 
@@ -379,7 +379,7 @@ plt.show()
 
 
     
-![png](Meeting_Notes_of_Federated_Learning_files/Meeting_Notes_of_Federated_Learning_23_1.png)
+![png](https://sonnguyenasu.github.io/files/Meeting_Notes_of_Federated_Learning_files/Meeting_Notes_of_Federated_Learning_23_1.png)
     
 
 

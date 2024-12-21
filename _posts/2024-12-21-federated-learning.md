@@ -347,7 +347,7 @@ plt.show()
 
 
     
-![png](/_posts/Meeting_Notes_of_Federated_Learning_files/Meeting_Notes_of_Federated_Learning_20_0.png)
+![png](/files/Meeting_Notes_of_Federated_Learning_files/Meeting_Notes_of_Federated_Learning_20_0.png)
     
 
 

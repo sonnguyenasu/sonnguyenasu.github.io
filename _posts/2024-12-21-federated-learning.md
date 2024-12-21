@@ -103,7 +103,7 @@ plt.imshow(x[0].permute(1,2,0))
 
 
     
-![png](Meeting_Notes_of_Federated_Learning_files/Meeting_Notes_of_Federated_Learning_7_1.png)
+![png](https://sonnguyenasu.github.io/files/Meeting_Notes_of_Federated_Learning_files/Meeting_Notes_of_Federated_Learning_7_1.png)
     
 
 
